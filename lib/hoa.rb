@@ -6,10 +6,8 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  Shows = {
-    :friends_males => ["Joey", "Chandler", "Ross"]
-    :friends_females => ["Monica", "Phoebe", "Rachel"]
-  }
+  
+  
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
